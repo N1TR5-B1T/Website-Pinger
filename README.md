@@ -6,4 +6,6 @@ git clone https://github.com/PogManation/Website-Pinger-
 
 cd Website-Pinger-
 
+chmod +x start.sh
+
 ./start.sh
